@@ -1,1 +1,0 @@
-https://newsletterdan.netlify.app/
