@@ -285,6 +285,7 @@ html {
 	justify-content: center;
 	width: 100%;
 	flex-direction: column;
+	gap: 10px;
 }
 .services .services-info .service {
 	width: 100%;
@@ -307,7 +308,7 @@ html {
 	left: 0;
 	top: 0;
 	height: 100%;
-	width: 100%;
+	width: 95%;
 	backface-visibility: hidden;
 	display: flex;
 	flex-direction: column;
